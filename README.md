@@ -154,29 +154,6 @@ Machine Learning Techniques Applied
 
 ⸻
 
-Repository Structure
-
-social-media-sentiment-classification/
-│
-├── data/
-│   └── social_media_sentiment.csv
-│
-├── images/
-│   ├── sentiment_distribution.png
-│   ├── model_accuracy.png
-│   └── confusion_matrix.png
-│
-├── notebook/
-│   └── sentiment_classification.ipynb
-│
-├── README.md
-│
-├── requirements.txt
-│
-└── LICENSE
-
-⸻
-
 Future Improvements
 
 * Implement advanced NLP preprocessing techniques.
