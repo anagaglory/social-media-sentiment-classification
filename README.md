@@ -119,10 +119,12 @@ Visualizations
 Sentiment Distribution
 
 Displays the frequency of each sentiment category within the dataset.
+![Sentiment Distribution](sentiment_distribution.png)
 
 Model Accuracy Comparison
 
 Compares the performance of Logistic Regression, Decision Tree, and Random Forest models.
+![Model Accuracy](model_accuracy.png)
 
 Confusion Matrix
 
