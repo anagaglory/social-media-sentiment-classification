@@ -127,7 +127,7 @@ Compares the performance of Logistic Regression, Decision Tree, and Random Fores
 Confusion Matrix
 
 Provides a detailed view of model predictions versus actual sentiment classes.
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 ⸻
 
 Technologies Used
