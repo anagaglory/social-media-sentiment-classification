@@ -119,7 +119,7 @@ Visualizations
 Sentiment Distribution
 
 Displays the frequency of each sentiment category within the dataset.
-![Sentiment Distribution](sentiment_distribution.png)
+![Sentiment Distribution](Images/sentiment_distribution.png)
 
 Model Accuracy Comparison
 
